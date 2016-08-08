@@ -1,0 +1,110 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.logo {
+	background-image: url('../img/company_logo.jpg');
+	padding: 62px 63px;
+	float: right;
+}
+.free {
+	height: 18%;
+	width: 70%;
+}
+.header {
+	background: #65371c;
+	width: 70%;
+	margin: auto;
+	height: 20%;
+}
+.nav1 ul {
+	padding: 0;
+	list-style: none;
+	position: relative;
+	display: block;
+	width: 100%;
+	    margin: -53px 85px 0;
+
+}
+.nav1 ul li {
+	float: left;
+	list-style: none;
+	font-size: 14px;
+	    width: 101px;
+
+}
+.nav1 ul li a {
+	padding: 17px;
+	
+	    width: 100%;
+}
+.button1 {
+	background-image: url('../img/button1.gif');
+	background-repeat: no-repeat;
+	display: inherit;
+}
+.button2 {
+	background-image: url('../img/button2.gif');
+	background-repeat: no-repeat;
+	display: inherit;
+}
+.button3 {
+	background-image: url('../img/button3.gif');
+	background-repeat: no-repeat;
+	display: inherit;
+}
+.button4 {
+	background-image: url('../img/button4.gif');
+	background-repeat: no-repeat;
+	display: inherit;
+}
+.button5 {
+	background-image: url('../img/button5.gif');
+	background-repeat: no-repeat;
+	display: inherit;
+}
+.button6 {
+	background-image: url('../img/button6.gif');
+	background-repeat: no-repeat;
+	display: inherit;
+}
+.button7 {
+	background-image: url('../img/button7.gif');
+	background-repeat: no-repeat;
+	display: inherit;
+}
+.input {
+	margin: 0 164px 0;
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.color {
+	display:block;
+	background-color: #F7941D;
+	height: 25px;
+	width: 100%;
+}
+.img_centr{
+	    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.content{
+	display: inline-flex;
+	
+			margin-left:15%;
+	margin-right:10%;
+}
+.one-third {
+	float: left;
+		margin-left:auto;
+	margin-right:auto;
+	   }
+.end{
+	display: inline-flex;
+	
+			margin-left:15%;
+	margin-right:10%;
+}
